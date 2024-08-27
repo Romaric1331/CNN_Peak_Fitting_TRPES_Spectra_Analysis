@@ -1,0 +1,15 @@
+Best loss: 1.7575664520263672
+Best hyperparameters:
+filters: 43
+kernel_size: 4
+learning_rate: 0.0007147297103920794
+kl_weight: 0.049082819079537994
+batch_size: 32
+weight_decay: 0.00010767915195435021
+dropout_rate: 0.22926169103304492
+beta1: 0.8759801591471837
+beta2: 0.9981258588488062
+epsilon: 6.437957663065589e-07
+epochs: 63
+strides: 2
+dense_units: 83

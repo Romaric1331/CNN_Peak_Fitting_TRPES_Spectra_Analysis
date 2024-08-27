@@ -1,0 +1,18 @@
+Sub database of sums of five peaks
+100 generated entries
+61 sufficiently separated peaks
+Sub database of sums of four peaks
+75 generated entries
+50 sufficiently separated peaks
+Sub database of sums of three peaks
+65 generated entries
+53 sufficiently separated peaks
+Sub database of sums of two peaks
+60 generated entries
+54 sufficiently separated peaks
+Sub database of single peaks
+55 generated entries
+Size of total database: 273
+Size of training database: 218
+Size of validation database: 27
+Size of test database: 28

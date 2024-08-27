@@ -1,0 +1,4 @@
+BayesianCNN
+Size of training database: 225
+Size of validation database: 28
+Training time for 50 epochs: 55 s
