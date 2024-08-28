@@ -1,0 +1,15 @@
+Size of test database: 19173
+Sparse_densenet:
+MAE on center: 0.23
+MAE on width: 0.07
+MAE on amplitude: 0.04
+MAE on peak number: 0.15
+MSE on center: 58.65
+MSE on width: 0.70
+MSE on amplitude: 0.17
+MSE on peak number: 9.11
+RMSE on center: 7.66
+RMSE on width: 0.83
+RMSE on amplitude: 0.41
+RMSE on peak number: 3.02
+Avg fit time: 2.25e-03 s

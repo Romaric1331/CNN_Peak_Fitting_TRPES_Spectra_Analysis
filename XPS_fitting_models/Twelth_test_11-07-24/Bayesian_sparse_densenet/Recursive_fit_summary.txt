@@ -1,0 +1,8 @@
+Bayesian_sparse_densenet:
+Size of test database: 19173
+Avg fit time (iterative fit A): 0.11 s per spectrum
+Avg fit time (iterative fit A + internal polish): 0.12 s per spectrum
+Avg end polish time after iterative fit A: 0.25 s per spectrum, 19173 spectra treated
+Avg fit time (iterative fit B): 0.47 s per spectrum
+Avg fit time (iterative fit B + internal polish): 0.50 s per spectrum
+Avg end polish time after iterative fit B: 4.11 s per spectrum, 19173 spectra treated

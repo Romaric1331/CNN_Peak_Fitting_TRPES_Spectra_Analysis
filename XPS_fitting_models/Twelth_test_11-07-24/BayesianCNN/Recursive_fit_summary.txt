@@ -1,0 +1,8 @@
+BayesianCNN:
+Size of test database: 2000
+Avg fit time (iterative fit A): 0.20 s per spectrum
+Avg fit time (iterative fit A + internal polish): 0.37 s per spectrum
+Avg end polish time after iterative fit A: 0.38 s per spectrum, 2000 spectra treated
+Avg fit time (iterative fit B): 0.45 s per spectrum
+Avg fit time (iterative fit B + internal polish): 0.67 s per spectrum
+Avg end polish time after iterative fit B: 1.97 s per spectrum, 2000 spectra treated

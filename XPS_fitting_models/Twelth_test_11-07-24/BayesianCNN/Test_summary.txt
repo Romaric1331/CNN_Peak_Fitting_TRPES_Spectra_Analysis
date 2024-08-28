@@ -1,0 +1,15 @@
+Size of test database: 19173
+BayesianCNN:
+MAE on center: 2.87
+MAE on width: 0.38
+MAE on amplitude: 0.23
+MAE on peak number: 1.34
+MSE on center: 58.91
+MSE on width: 1.04
+MSE on amplitude: 0.26
+MSE on peak number: 10.36
+RMSE on center: 7.67
+RMSE on width: 1.02
+RMSE on amplitude: 0.51
+RMSE on peak number: 3.22
+Avg fit time: 2.31e-03 s

@@ -1,0 +1,8 @@
+Sparse_densenet:
+Size of test database: 2000
+Avg fit time (iterative fit A): 0.33 s per spectrum
+Avg fit time (iterative fit A + internal polish): 0.36 s per spectrum
+Avg end polish time after iterative fit A: 3.22 s per spectrum, 1946 spectra treated
+Avg fit time (iterative fit B): 0.41 s per spectrum
+Avg fit time (iterative fit B + internal polish): 0.34 s per spectrum
+Avg end polish time after iterative fit B: 5.70 s per spectrum, 1911 spectra treated

@@ -1,0 +1,4 @@
+Sparse_densenet
+Size of training database: 153378
+Size of validation database: 19172
+Training time for 50 epochs: 202862 s

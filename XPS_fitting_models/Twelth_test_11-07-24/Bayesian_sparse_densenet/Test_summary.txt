@@ -1,0 +1,15 @@
+Size of test database: 19173
+Bayesian_sparse_densenet:
+MAE on center: 43.10
+MAE on width: 5.91
+MAE on amplitude: 4.84
+MAE on peak number: 10.32
+MSE on center: 98.70
+MSE on width: 6.19
+MSE on amplitude: 4.78
+MSE on peak number: 15.32
+RMSE on center: 9.93
+RMSE on width: 2.49
+RMSE on amplitude: 2.19
+RMSE on peak number: 3.91
+Avg fit time: 4.99e-03 s
