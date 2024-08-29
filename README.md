@@ -1,5 +1,5 @@
 [![SWH](https://archive.softwareheritage.org/badge/origin/https://github.com/Romaric1331/CNN_Peak_Fitting_TRPES_Spectra_Analysis/)](https://archive.softwareheritage.org/browse/origin/?origin_url=https://github.com/Romaric1331/CNN_Peak_Fitting_TRPES_Spectra_Analysis)
-# CNN Peak Fitting TRPES Spectra Analysis
+# ML Techniques for High Throughput Analysis for PV Cells
 
 Welcome to the repository documenting the work embarked upon during my journey as a Machine Learning Engineer Intern at CNRS, within the prestigious Institut Photovoltaïque d'Ile-de-France (IPVF). This repository showcases the research and development efforts under the guidance of esteemed mentors Philip Schulz, Jean-Baptiste Puel, and Arthur Julien, as part of the captivating project titled **"Analysis of Interfaces in Perovskite-Based Tandem Solar Cells with Advanced Spectroscopy and Data Science Techniques."**
 
